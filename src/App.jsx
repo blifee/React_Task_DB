@@ -8,10 +8,10 @@ function App() {
   return (
     <>
      {/* <DateTimePicker /> */}
-      <MultiSelectDropdown />
-       {/* <ChartWidget />
-       <MultiDocumentUpload />
-      <AIImplementation/>  */}
+      {/* <MultiSelectDropdown /> */}
+        <ChartWidget />
+       {/* <MultiDocumentUpload />
+      <AIImplementation/> */}
     </>
   )
 }
