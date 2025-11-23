@@ -10,8 +10,8 @@ function App() {
      {/* <DateTimePicker /> */}
       {/* <MultiSelectDropdown /> */}
         {/* <ChartWidget /> */}
-        <MultiDocumentUpload />
-      {/* <AIImplementation/>  */}
+        {/* <MultiDocumentUpload /> */}
+       <AIImplementation/>
     </>
   )
 }
