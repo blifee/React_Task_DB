@@ -9,9 +9,9 @@ function App() {
     <>
      {/* <DateTimePicker /> */}
       {/* <MultiSelectDropdown /> */}
-        <ChartWidget />
-       {/* <MultiDocumentUpload />
-      <AIImplementation/> */}
+        {/* <ChartWidget /> */}
+        <MultiDocumentUpload />
+      {/* <AIImplementation/>  */}
     </>
   )
 }
