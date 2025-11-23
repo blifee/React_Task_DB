@@ -7,11 +7,11 @@ import MultiSelectDropdown from "./component/MultiSelectDropdown"
 function App() {
   return (
     <>
-     <DateTimePicker />
-     {/* <MultiSelectDropdown />
-       <ChartWidget />
+     {/* <DateTimePicker /> */}
+      <MultiSelectDropdown />
+       {/* <ChartWidget />
        <MultiDocumentUpload />
-      <AIImplementation/> */}
+      <AIImplementation/>  */}
     </>
   )
 }
