@@ -458,18 +458,7 @@ export default function AIImplementation() {
           )}
         </div>
 
-        {/* Info Note */}
-        <div className="mt-6 bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <p className="text-sm text-blue-800">
-            <strong>Note:</strong> This is a demonstration using simulated AI responses. In production, you would integrate with:
-          </p>
-          <ul className="list-disc list-inside text-sm text-blue-700 mt-2 ml-4">
-            <li>AI Image APIs: DALL-E, Stable Diffusion, Midjourney</li>
-            <li>AI Chat APIs: Claude API, OpenAI GPT, Anthropic</li>
-            <li>AI Validation: Custom models or rule-based AI systems</li>
-          </ul>
-        </div>
-      </div>
-    </div>
+       
   );
+
 }
